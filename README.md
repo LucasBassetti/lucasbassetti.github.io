@@ -1,2 +1,2 @@
-# lucasbassetti.github.io
-Lucas Bassetti
+# Lucas Bassetti
+Personal website/blog
