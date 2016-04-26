@@ -10,7 +10,7 @@ permalink: /about/
 + Federal University of Espírito Santo
 2. Bachelor's Degree, Computer Science (2009 - 2014)
 + Federal University of Espírito Santo
-+ Thesis: [Mapeando Dados Governamentais com uma Ontologia de Organizações](https://drive.google.com/file/d/0B-RWB54HnvoITjZQWTR5bmZJRDg/view?usp=drive_web)
++ Thesis: [Mapeando Dados Governamentais com uma Ontologia de Organizações](https://drive.google.com/file/d/0B-RWB54HnvoITjZQWTR5bmZJRDg/view?usp=drive_web){:target="_blank"}
 
 ## Experience
 
