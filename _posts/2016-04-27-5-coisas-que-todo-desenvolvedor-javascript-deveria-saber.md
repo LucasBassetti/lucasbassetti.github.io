@@ -7,7 +7,7 @@ categories: javascript
 
 Fala Galera!
 
-A cada dia que passa, novos frameworks JavaScript são lançados fazendo com que muitas pessoas (inclusive eu) acabem negligenciando conceitos básicos do JavaScript. Como parte do meu estudo, resolvi fazer esse "resumão" de alguns conceitos que considero fundamentais para um desenvolvedor JavaScript.
+A cada dia que passa, novos frameworks JavaScript são lançados fazendo com que muitas pessoas (inclusive eu)  negligenciem conceitos básicos da linguagem. Como parte do meu estudo, resolvi fazer esse "resumão" de alguns conceitos que considero fundamentais para um desenvolvedor JavaScript.
 
 ### 1. Escopos
 
