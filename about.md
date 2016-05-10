@@ -8,28 +8,32 @@ permalink: /about/
 
 1. Master's Degree, Computer Science (2014 - Present)
 + Federal University of Espírito Santo
+
 2. Bachelor's Degree, Computer Science (2009 - 2014)
 + Federal University of Espírito Santo
 + Final Project: [Mapeando Dados Governamentais com uma Ontologia de Organizações](https://drive.google.com/file/d/0B-RWB54HnvoITjZQWTR5bmZJRDg/view?usp=drive_web){:target="_blank"}
 
 ## Experience
 
-1. Full Stack Meteor Developer (2015 - 2016)
+1. Front End Developer (2016 - Present)
++ **Company:** A4PM ([veltio.com.br](http://veltio.com.br/){:target="_blank"})
+
+2. Full Stack Meteor Developer (2015 - 2016)
 + **Company:** Partio, Inc. ([partioapp.com](http://partioapp.com){:target="_blank"})
 
-2. Software Enginnering (2014 - 2015)
+3. Software Enginnering (2014 - 2015)
 + **Company:** Padtec Project, Padtec ([padtec.com.br](http://www.padtec.com.br/){:target="_blank"})
 
-3. Web Developer (2014 - 2015)
+4. Web Developer (2014 - 2015)
 + **Company:** Cativa Imagens ([cativaimagem.com.br](http://www.cativaimagem.com.br/){:target="_blank"})
 
-4. Software Enginnering (2011 - 2013)
+5. Software Enginnering (2011 - 2013)
 + **Company:** MGIC Project, ANTT ([antt.gov.br](http://www.antt.gov.br/){:target="_blank"})
 
-5. Web Developer (2011 - 2011)
+6. Web Developer (2011 - 2011)
 + **Company:** PRPPG - UFES ([prppg.ufes.br](http://www.prppg.ufes.br/){:target="_blank"})
 
-6. Technical Support (2010 - 2011)
+7. Technical Support (2010 - 2011)
 + **Company:** SESP-ES ([sesp.es.gov.br](http://www.sesp.es.gov.br/){:target="_blank"})
 
 
