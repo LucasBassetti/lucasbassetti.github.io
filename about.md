@@ -38,7 +38,7 @@ permalink: /about/
 
 ## Courses
 
-1. [Modern React with Redux](https://ude.my/UC-U1MKJSBS)
+1. [Modern React with Redux](https://ude.my/UC-U1MKJSBS){:target="_blank"}
 
 ## Publications
 
