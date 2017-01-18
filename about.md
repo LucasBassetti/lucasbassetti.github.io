@@ -36,6 +36,9 @@ permalink: /about/
 7. Technical Support (2010 - 2011)
 + **Company:** SESP-ES ([sesp.es.gov.br](http://www.sesp.es.gov.br/){:target="_blank"})
 
+## Courses
+
+1. [Modern React with Redux](https://ude.my/UC-U1MKJSBS)
 
 ## Publications
 
