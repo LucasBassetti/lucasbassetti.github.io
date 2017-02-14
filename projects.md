@@ -6,6 +6,10 @@ permalink: /projects/
 
 Some of the open-source projects that I've created recently.
 
+### 2017
+
+* [Pentaho CDF React Boilerplate](https://github.com/LucasBassetti/pentaho-cdf-react-boilerplate){:target="_blank"}
+
 ### 2016
 
 * [Awesome Less](https://github.com/LucasBassetti/awesome-less){:target="_blank"}
