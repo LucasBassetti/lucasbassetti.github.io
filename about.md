@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Education
 
-1. Master's Degree, Computer Science (2014 - Present)
+1. Master's Degree, Computer Science (2014 - 2017)
 + Federal University of Espírito Santo
 
 2. Bachelor's Degree, Computer Science (2009 - 2014)
