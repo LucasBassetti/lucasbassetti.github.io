@@ -13,7 +13,8 @@ Some of the open-source projects that I've created recently.
 ### 2016
 
 * [Awesome Less](https://github.com/LucasBassetti/awesome-less){:target="_blank"}
-* [ShareTempus API for node.js](https://github.com/ShareTempus/sharetempus-node){:target="_blank"}
+* [ShareTempus API wrapper for Node.js](https://github.com/ShareTempus/sharetempus-node){:target="_blank"}
+* [ShareTempus API wrapper for Python](https://github.com/ShareTempus/sharetempus-python){:target="_blank"}
 * [Web crawler transparencia.gov.br](https://github.com/LucasBassetti/crawler-transparencia){:target="_blank"}
 * [Pentaho CDF Angular Boilerplate](https://github.com/LucasBassetti/pentaho-cdf-angular-boilerplate){:target="_blank"}
 * [Adaptation of Brazilian Map in SVG of Felipe Duardo](https://github.com/LucasBassetti/mapa-brasil-svg){:target="_blank"}
