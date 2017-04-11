@@ -8,6 +8,7 @@ Some of the open-source projects that I've created recently.
 
 ### 2017
 
+* [React Airbnb Boilerplate](https://github.com/LucasBassetti/react-airbnb-boilerplate){:target="_blank"}
 * [Pentaho CDF React Boilerplate](https://github.com/LucasBassetti/pentaho-cdf-react-boilerplate){:target="_blank"}
 
 ### 2016
