@@ -40,6 +40,7 @@ permalink: /about/
 ## Courses
 
 1. [Modern React with Redux](https://ude.my/UC-U1MKJSBS){:target="_blank"}
+2. [Aprendendo SVG do Início ao Avançado](https://drive.google.com/open?id=0B-RWB54HnvoIY2M1aTUxUGtQQU0){:target="_blank"}
 
 ## Publications
 
