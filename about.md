@@ -16,7 +16,7 @@ permalink: /about/
 
 ## Experience
 
-1. Front End Developer (2016 - Present)
+1. Front-End Developer (2016 - Present)
 + **Company:** A4PM ([veltio.com.br](http://veltio.com.br/){:target="_blank"})
 
 2. Full Stack Meteor Developer (2015 - 2016)
