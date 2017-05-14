@@ -8,6 +8,7 @@ Some of the open-source projects that I've created recently.
 
 ### 2017
 
+* [React CSS Loaders](https://github.com/lucasbassetti/react-css-loaders/){:target="_blank"}
 * [React Simple Chatbot](http://lucasbassetti.com.br/react-simple-chatbot/){:target="_blank"}
 * [React SPA Boilerplate](http://lucasbassetti.com.br/react-spa-boilerplate){:target="_blank"}
 * [React Airbnb Boilerplate](https://github.com/LucasBassetti/react-airbnb-boilerplate){:target="_blank"}
