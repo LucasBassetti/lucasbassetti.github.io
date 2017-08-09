@@ -16,25 +16,28 @@ permalink: /about/
 
 ## Experience
 
-1. Front-End Developer (2016 - Present)
+1. Front-End Developer (2017 - Present)
++ **Company:** Integration Alpha ([integrationalpha.com](https://integrationalpha.com){:target="_blank"})
+
+2. Front-End Developer (2016 - 2017)
 + **Company:** A4PM ([veltio.com.br](http://veltio.com.br/){:target="_blank"})
 
-2. Full Stack Meteor Developer (2015 - 2016)
+3. Full Stack Meteor Developer (2015 - 2016)
 + **Company:** Partio, Inc. ([partioapp.com](http://partioapp.com){:target="_blank"})
 
-3. Software Enginnering (2014 - 2015)
+4. Software Enginnering (2014 - 2015)
 + **Company:** Padtec Project, Padtec ([padtec.com.br](http://www.padtec.com.br/){:target="_blank"})
 
-4. Web Developer (2014 - 2015)
+5. Web Developer (2014 - 2015)
 + **Company:** Cativa Imagens ([cativaimagem.com.br](http://www.cativaimagem.com.br/){:target="_blank"})
 
-5. Software Enginnering (2011 - 2013)
+6. Software Enginnering (2011 - 2013)
 + **Company:** MGIC Project, ANTT ([antt.gov.br](http://www.antt.gov.br/){:target="_blank"})
 
-6. Web Developer (2011 - 2011)
+7. Web Developer (2011 - 2011)
 + **Company:** PRPPG - UFES ([prppg.ufes.br](http://www.prppg.ufes.br/){:target="_blank"})
 
-7. Technical Support (2010 - 2011)
+8. Technical Support (2010 - 2011)
 + **Company:** SESP-ES ([sesp.es.gov.br](http://www.sesp.es.gov.br/){:target="_blank"})
 
 ## Courses
