@@ -8,6 +8,7 @@ Some of the open-source projects that I've created recently.
 
 ### 2017
 
+* [i18n CSV2JSON CLI](https://github.com/LucasBassetti/i18n-csv2json-cli){:target="_blank"}
 * [React CSS Loaders](https://github.com/lucasbassetti/react-css-loaders/){:target="_blank"}
 * [React Simple Chatbot](http://lucasbassetti.com.br/react-simple-chatbot/){:target="_blank"}
 * [React SPA Boilerplate](http://lucasbassetti.com.br/react-spa-boilerplate){:target="_blank"}
