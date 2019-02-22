@@ -57,7 +57,7 @@ permalink: /about/
 
 2. FONSECA, Lucas B. R.; AZEVEDO, DETONI, Archimedes A.; ALMEIDA, João Paulo A.; FALBO, Ricardo de A.. [Uma Proposta de Ontologia de Referência para Autorização Orçamentária e Execução da Despesa Pública](https://lucasbassett.com.br/assets/pdf/Uma_Proposta_de_Ontologia_de_Referencia_para_Autorizacao_Orcamentaria_e_Execucao_da_Despesa_Publica.pdf){:target="_blank"}. Ontobrás, 2016.
 
-3. FONSECA, Lucas B. R.; AZEVEDO, Carlos L. B.; ALMEIDA, João Paulo A.. [Mapeando Dados Governamentais com uma Ontologia de Organizações](https://lucasbassett.com.br/assets/pdf/Mapeando_Dados_Governamentais_com_uma_Ontologia_de_Organizações.pdf){:target="_blank"}. LOD Brasil, p. 27-42, 2014.
+3. FONSECA, Lucas B. R.; AZEVEDO, Carlos L. B.; ALMEIDA, João Paulo A.. [Mapeando Dados Governamentais com uma Ontologia de Organizações](https://lucasbassett.com.br/assets/pdf/Mapeando_Dados_Governamentais_com_uma_Ontologia_de_Organizacoes.pdf){:target="_blank"}. LOD Brasil, p. 27-42, 2014.
 
 ## Awards
 
