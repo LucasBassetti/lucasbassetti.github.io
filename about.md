@@ -53,7 +53,7 @@ permalink: /about/
 
 ## Publications
 
-1. FONSECA, Lucas B. R.; AZEVEDO, DETONI, Archimedes A.; ALMEIDA, João Paulo A.; FALBO, Ricardo de A.. [Uma Ontologia de Referência para Autorização Orçamentária e Execução da Despesa Pública](https://lucasbassetti.com.br/assets/pdf/Uma_Ontologia_de_Referencia_para_Autorizacao_Orcamentaria_e_Execucao_da_Despesa_Publica.pdf){:target="_blank"}. iSys, 2018.
+1. AZEVEDO, DETONI, Archimedes A.; FONSECA, Lucas B. R.; ALMEIDA, João Paulo A.; FALBO, Ricardo de A.. [Uma Ontologia de Referência para Autorização Orçamentária e Execução da Despesa Pública](https://lucasbassetti.com.br/assets/pdf/Uma_Ontologia_de_Referencia_para_Autorizacao_Orcamentaria_e_Execucao_da_Despesa_Publica.pdf){:target="_blank"}. iSys, 2018.
 
 2. FONSECA, Lucas B. R.; AZEVEDO, DETONI, Archimedes A.; ALMEIDA, João Paulo A.; FALBO, Ricardo de A.. [Uma Proposta de Ontologia de Referência para Autorização Orçamentária e Execução da Despesa Pública](https://lucasbassetti.com.br/assets/pdf/Uma_Proposta_de_Ontologia_de_Referencia_para_Autorizacao_Orcamentaria_e_Execucao_da_Despesa_Publica.pdf){:target="_blank"}. Ontobrás, 2016.
 
