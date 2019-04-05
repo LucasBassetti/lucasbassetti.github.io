@@ -6,6 +6,10 @@ permalink: /projects/
 
 Some of the open-source projects that I've created recently.
 
+### 2019
+
+* [React TypeScript Antd Boilerplate](https://github.com/LucasBassetti/react-typescript-antd-boilerplate){:target="_blank"}
+
 ### 2017
 
 * [i18n CSV2JSON CLI](https://github.com/LucasBassetti/i18n-csv2json-cli){:target="_blank"}
