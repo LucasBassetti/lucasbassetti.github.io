@@ -16,34 +16,37 @@ permalink: /about/
 
 ## Experience
 
-1. Mobile Developer (2018 - Present)
+1. Front-end Developer (2019 - Present)
++ **Company:** YachtLife ([yachtlife.com](https://yachtlife.com){:target="_blank"})
+
+2. Mobile Developer (2018 - 2019)
 + **Company:** dinely ([dinely.app](https://dinely.app){:target="_blank"})
 
-2. Front-End Developer (2018 - 2018)
+3. Front-End Developer (2018 - 2018)
 + **Company:** Train Effective ([traineffective.com](https://traineffective.com){:target="_blank"})
 
-3. Front-End Developer (2017 - 2018)
+4. Front-End Developer (2017 - 2018)
 + **Company:** Integration Alpha ([integrationalpha.com](https://integrationalpha.com){:target="_blank"})
 
-4. Front-End Developer (2016 - 2017)
+5. Front-End Developer (2016 - 2017)
 + **Company:** A4PM ([veltio.com.br](http://veltio.com.br/){:target="_blank"})
 
-5. Full Stack Meteor Developer (2015 - 2016)
+6. Full Stack Meteor Developer (2015 - 2016)
 + **Company:** Partio, Inc. ([partioapp.com](http://partioapp.com){:target="_blank"})
 
-6. Software Enginnering (2014 - 2015)
+7. Software Enginnering (2014 - 2015)
 + **Company:** Padtec Project, Padtec ([padtec.com.br](http://www.padtec.com.br/){:target="_blank"})
 
-7. Web Developer (2014 - 2015)
+8. Web Developer (2014 - 2015)
 + **Company:** Cativa Imagens ([cativaimagem.com.br](http://www.cativaimagem.com.br/){:target="_blank"})
 
-8. Software Enginnering (2011 - 2013)
+9. Software Enginnering (2011 - 2013)
 + **Company:** MGIC Project, ANTT ([antt.gov.br](http://www.antt.gov.br/){:target="_blank"})
 
-9. Web Developer (2011 - 2011)
+10. Web Developer (2011 - 2011)
 + **Company:** PRPPG - UFES ([prppg.ufes.br](http://www.prppg.ufes.br/){:target="_blank"})
 
-10. Technical Support (2010 - 2011)
+11. Technical Support (2010 - 2011)
 + **Company:** SESP-ES ([sesp.es.gov.br](http://www.sesp.es.gov.br/){:target="_blank"})
 
 ## Courses
